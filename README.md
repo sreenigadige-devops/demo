@@ -1,2 +1,2 @@
 # demo
-This is a demo project to perform continuous integration with VS Code and GitHub.
+This is a Java Demo Project to perform continuous integration with VS Code and GitHub.
